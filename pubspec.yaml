@@ -36,8 +36,6 @@ dependencies:
   path_provider: ^2.0.11
   path: ^1.8.3
   uuid: ^3.0.6
-  connectivity_plus:
-  fluttertoast: ^8.0.9 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8

@@ -82,7 +82,7 @@ The app displays a list of tasks with their titles, descriptions, and completion
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com//todo_bloc_app.git
+   git clone https://github.com/HeinThuraWynnn/todo_bloc_app.git
    ```
 2. **Install dependencies**:
 
@@ -99,12 +99,8 @@ The app displays a list of tasks with their titles, descriptions, and completion
 
 Below are the key dependencies used in the project:
 
-- **connectivity_plus**: For checking internet connectivity.
-  Path: `/Users/thomaz/.pub-cache/hosted/pub.dev/connectivity_plus-6.0.5/`
-- **fluttertoast**: For showing toast notifications.
-  Path: `/Users/thomaz/.pub-cache/hosted/pub.dev/fluttertoast-8.2.8/`
 - **sqflite**: For SQLite database management.
-  Path: `/Users/thomaz/.pub-cache/hosted/pub.dev/sqflite-2.4.0/`
+- **flutter_bloc**: For Flutter state management.
 
 ### Bonus Features
 
@@ -113,4 +109,4 @@ Below are the key dependencies used in the project:
 
 ### Contact
 
-For any queries or support, please reach out at `hein.thura.wynn@example.com`.
+For any queries or support, please reach out at `heinthurawynn.developer@gmail.com`.
